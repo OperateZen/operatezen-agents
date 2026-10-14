@@ -195,7 +195,7 @@ TIERS & PRICING:
   Free: €0 — 3 clients, 3 resources, 5 passwords, 5 tickets
   Professional: €4.99/mo — 10 clients, 15 resources, 30 passwords, 50 tickets + team mgmt
   Business: €9.99/mo — 30 clients, 50 resources, 100 passwords, unlimited tickets + groups
-  Enterprise: €19.99/mo — unlimited + priority support
+  Enterprise: €299/mo — unlimited + priority support (canonical v3: Free €0 / Professional €29 / Business €59 / Enterprise €299)
 
 GROWTH:
   Leads: ${leadSummary}
@@ -556,8 +556,8 @@ const QUESTIONS = [
     why:'No white-label. MSP market = high ACV. 5-8 sessions to build. "Coming soon" = signals intent.' },
 
   { id:'Q070', cat:'Business',
-    q:'Enterprise pricing: €19.99/mo flat = unlimited everything. This looks too cheap for enterprise buyers who expect to pay €50+/user. Should we introduce a "Custom" tier (contact sales, minimum €199/mo) above Enterprise to serve actual enterprise accounts, while keeping the €19.99 label for "unlimited SMB"?',
-    why:'Enterprise: €19.99/mo flat. Freshservice enterprise: €79/agent/mo. Pricing signal vs access.' },
+    q:'Enterprise pricing: €299/mo flat = unlimited everything. This looks too cheap for enterprise buyers who expect to pay €50+/user. Positioning note: one flat team price vs per-user competitors.',
+    why:'Enterprise: €299/mo flat (canonical v3 — €19 is never valid). Freshservice enterprise: €79/agent/mo. Pricing signal vs access.' },
 
   // ══ GROWTH — grounded in real channels and real zero-state ═══════════════
 
